@@ -1,3 +1,5 @@
+https://sugiura-lab.com/opencv_dl_book/
+
 Ch7 models https://gihyo.jp/book/2022/978-4-297-12775-6/support
 
 # OpenCVではじめよう ディープラーニングによる画像認識 サンプルコード
